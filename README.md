@@ -138,7 +138,7 @@ Feel free to connect with me on:
 
 * *LinkedIn*: https://www.linkedin.com/in/abdikarimmataan/ 
 * *Email*: abdialtrad@gmail.com
-* *GitHub*: [https://github.com/samuel-olayinka/ABJC-Real-Estate-Sales-Dashboard-Excel-/edit/main/README.md)
+* *GitHub*: https://github.com/abdikarimmataan/Smoking-Health-Risk-Analysis-Dashboard.git
 
 ---
 
